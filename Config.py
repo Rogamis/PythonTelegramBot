@@ -1,1 +1,1 @@
-TOKEN = '2092862577:AAGCZKU6fKEj2o4GjtfKPmrxAUw8Ca5CM2U'
+TOKEN = "your token with Bot Father"
